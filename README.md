@@ -1,8 +1,11 @@
-# Mahoraga
+# MAHORAGA
 
-An autonomous, LLM-powered trading agent that monitors social sentiment and makes trading decisions using AI.
+An autonomous, LLM-powered trading agent that adapts to social sentiment and makes trading decisions using AI.
 
-Mahoraga scrapes StockTwits for trending stocks, uses OpenAI to analyze signals and research opportunities, then executes trades through Alpaca. It's designed as a starting point for building your own agentic trading strategies.
+MAHORAGA scrapes StockTwits for trending stocks, uses OpenAI to analyze signals and research opportunities, then executes trades through Alpaca. It's designed as a starting point for building your own agentic trading strategies.
+
+<img width="1278" height="957" alt="dashboard" src="https://github.com/user-attachments/assets/56473ab6-e2c6-45fc-9e32-cf85e69f1a2d" />
+
 
 ## Features
 
